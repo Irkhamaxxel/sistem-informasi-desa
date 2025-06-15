@@ -5,8 +5,7 @@ Ini adalah proyek sistem informasi lokal untuk pengelolaan administrasi kependud
 ## 📦 Fitur Utama
 
 - Login admin
-- Pendataan penduduk
-- Pencetakan surat dan laporan
+- Pendataan penduduk (lahir, meinggal, pindah, datang)
 - Pengelolaan data keluarga
 
 ## 🛠 Teknologi
@@ -16,3 +15,10 @@ Ini adalah proyek sistem informasi lokal untuk pengelolaan administrasi kependud
 - HTML/CSS/JS
 - XAMPP (localhost)
 
+## 🚀 Cara Menjalankan
+
+1. Clone repository ini:
+   git clone https://github.com/Irkhamaxxel/sistem-informasi-desa.git
+2. Pindahkan folder ke `htdocs` (jika pakai XAMPP)
+3. Import file struktur database di file bernama `data_penduduk.sql` ke phpMyAdmin
+4. Buka di browser: http://localhost/sistem-informasi-desa
