@@ -5,7 +5,8 @@ Ini adalah proyek sistem informasi lokal untuk pengelolaan administrasi kependud
 ## 📦 Fitur Utama
 
 - Login admin
-- Pendataan penduduk (lahir, meinggal, pindah, datang)
+- Pendataan penduduk (lahir, meninggal, pindah, datang)
+- Upload surat dan laporan
 - Pengelolaan data keluarga
 
 ## 🛠 Teknologi
